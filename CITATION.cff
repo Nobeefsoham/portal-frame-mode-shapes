@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata and record the specific Git commit."
+title: "Portal Frame Mode Shapes"
+authors:
+  - name: "Nobeefsoham"
+type: software
+repository-code: "https://github.com/Nobeefsoham/portal-frame-mode-shapes"
+url: "https://github.com/Nobeefsoham/portal-frame-mode-shapes"
+abstract: "GNU Octave transfer-matrix script for plotting fixed-fixed portal frame mode shapes at supplied ANSYS target frequencies."
+keywords:
+  - GNU Octave
+  - portal frame
+  - mode shapes
+  - transfer matrix
